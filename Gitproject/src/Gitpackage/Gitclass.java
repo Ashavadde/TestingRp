@@ -5,7 +5,7 @@ public class Gitclass {
 
 	
 System.out.println("hi");
-System.out.println("helloooo");
+System.out.println("hello");
 
 	}
 }
